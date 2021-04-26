@@ -1,0 +1,38 @@
+
+body {
+    background-color: #2b5539;
+    
+}
+
+#containerPrincipal{
+    padding: 30px;
+}
+
+h1{
+    color: #dddddd;
+}
+
+img {
+    width: 70px;
+    padding: 10px;
+}
+
+.containerTirada {
+    height: 200px;
+}
+
+#instrucciones{
+    height: 40px;
+}
+
+#botones{
+    height: 60px;
+}
+
+#imgsDados{
+    height: 70px;
+}
+
+#instrucciones {
+    color: #dddddd;
+}
